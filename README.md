@@ -1,6 +1,6 @@
 # Cyclistic Bike Share Customer Analysis Dashboard
 
-![Dashboard Home Page](/Images/P1/P1%20Image%201.png)
+![Dashboard Home Page](/Images/P1/P3%20Image%201.png)
 
 [Download PowerBI Project file](https://drive.google.com/file/d/1Ihop5IvVlO9ycVXvcXrIfJAYGKlgGpCr/view?usp=sharing)
 
@@ -40,19 +40,19 @@ The primary business objective is to understand the behavioral differences betwe
 
 ### Page 1: HOME
 
-![Dashboard Home Page](/Images/P1/P1%20Image%201.png)
+![Dashboard Home Page](/Images/P1/P3%20Image%201.png)
 
 This is the gateway to the Cyclistic Bike Share Customer Analytics Dashboard. It introduces the business objective, outlines the dashboard structure, and provides intuitive navigation to help users explore customer behavior, ride patterns, station utilization, and membership insights.
 
 ### Page 2: Executive Overview
 
-![Dashboard Home Page](/Images/P1/P1%20Image%202.png)
+![Dashboard Home Page](/Images/P1/P3%20Image%202.png)
 
 This page serves as the executive summary of the dashboard by providing a high-level view of ridership performance, customer segmentation, bike usage, ride duration trends, and overall membership behavior. It enables stakeholders to quickly assess customer engagement patterns and identify major business opportunities.
 
 ### Page 3: Customer Behavior Analysis
 
-![Dashboard Home Page](/Images/P1/P1%20Image%203.png)
+![Dashboard Home Page](/Images/P1/P3%20Image%203.png)
 
 This page focuses on understanding how members and casual riders differ in their riding habits. Through customer segmentation analysis, ride frequency evaluation, temporal usage trends, and behavioral comparisons, it highlights the key characteristics that distinguish loyal subscribers from occasional riders.
 
@@ -62,7 +62,7 @@ This page examines trip characteristics and ride behavior across different custo
 
 ### Page 5: Station & Route Intelligence
 
-![Dashboard Home Page](/Images/P1/P1%20Image%205.png)
+![Dashboard Home Page](/Images/P1/P3%20Image%205.png)
 
 This page provides location-based insights into customer mobility and station performance. By analyzing station popularity, route types, geographic ride distribution, and trip origins, it helps identify commuter corridors, high-demand stations, recreational hotspots, and operational opportunities for network optimization.
 
