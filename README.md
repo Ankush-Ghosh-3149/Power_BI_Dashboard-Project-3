@@ -1,6 +1,6 @@
 # Cyclistic Bike Share Customer Analysis Dashboard
 
-![Dashboard Home Page](/Images/P1/P3%20Image%201.png)
+![Dashboard Home Page]([/Images/P1/P3%20Image%201.png](https://github.com/Ankush-Ghosh-3149/Power_BI_Dashboard-Project-3/blob/main/Images/P3%20Image%201.png))
 
 [Download PowerBI Project file](https://drive.google.com/file/d/1Ihop5IvVlO9ycVXvcXrIfJAYGKlgGpCr/view?usp=sharing)
 
